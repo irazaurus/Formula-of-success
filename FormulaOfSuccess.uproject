@@ -23,5 +23,8 @@
 			"Name": "StudioTelemetry",
 			"Enabled": false
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
