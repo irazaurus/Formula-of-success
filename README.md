@@ -1,2 +1,3 @@
 # Formula of success
- ITMO GameDev course work
+
+ A game made in Unreal Engine 5 about a witch ✨
